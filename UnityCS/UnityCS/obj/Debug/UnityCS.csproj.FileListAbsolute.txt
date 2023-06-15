@@ -1,0 +1,7 @@
+C:\dev\CSharp_UnityCS\UnityCS\UnityCS\obj\Debug\UnityCS.csproj.AssemblyReference.cache
+C:\dev\CSharp_UnityCS\UnityCS\UnityCS\obj\Debug\UnityCS.csproj.CoreCompileInputs.cache
+C:\dev\CSharp_UnityCS\UnityCS\UnityCS\bin\Debug\UnityCS.exe.config
+C:\dev\CSharp_UnityCS\UnityCS\UnityCS\bin\Debug\UnityCS.exe
+C:\dev\CSharp_UnityCS\UnityCS\UnityCS\bin\Debug\UnityCS.pdb
+C:\dev\CSharp_UnityCS\UnityCS\UnityCS\obj\Debug\UnityCS.exe
+C:\dev\CSharp_UnityCS\UnityCS\UnityCS\obj\Debug\UnityCS.pdb
