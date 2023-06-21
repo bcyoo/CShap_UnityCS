@@ -1,0 +1,6 @@
+C:\dev\CSharp_UnityCS\UnityCS\03CodeStartReading\bin\Debug\03CodeStartReading.exe.config
+C:\dev\CSharp_UnityCS\UnityCS\03CodeStartReading\bin\Debug\03CodeStartReading.exe
+C:\dev\CSharp_UnityCS\UnityCS\03CodeStartReading\bin\Debug\03CodeStartReading.pdb
+C:\dev\CSharp_UnityCS\UnityCS\03CodeStartReading\obj\Debug\03CodeStartReading.csproj.CoreCompileInputs.cache
+C:\dev\CSharp_UnityCS\UnityCS\03CodeStartReading\obj\Debug\03CodeStartReading.exe
+C:\dev\CSharp_UnityCS\UnityCS\03CodeStartReading\obj\Debug\03CodeStartReading.pdb

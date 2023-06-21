@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{651164A4-F907-4111-B731-780168207303}</ProjectGuid>
+    <ProjectGuid>{AF5A116C-8975-4FEA-B655-1518DE552C36}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01Class</RootNamespace>
-    <AssemblyName>01Class</AssemblyName>
+    <RootNamespace>_03CodeStartReading</RootNamespace>
+    <AssemblyName>03CodeStartReading</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
